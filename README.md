@@ -13,8 +13,12 @@
 <hr style="border: none; border-top: 1px dotted #999;"/>
 <h4>TECHNOLOGIES UTILIZED:</h4>
 <ul>
-  <li>Python</li>
   <li>Machine Learning Algorithms</li>
+</ul>
+<hr style="border: none; border-top: 1px dotted #999;"/>
+<h4>LANGUAGE UTILIZED:</h4>
+<ul>
+  <li>Python</li>
 </ul>
 <hr style="border: none; border-top: 1px dotted #999;"/>
 <h4>RESOURCE UTILIZED</h4>
